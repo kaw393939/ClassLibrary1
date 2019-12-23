@@ -12,7 +12,7 @@ namespace ClassLibrary1.Tests
         [TestMethod()]
         public void PrintTest()
         {
-            Assert.Fail();
+            Assert.Fail(); 
         }
     }
 }
